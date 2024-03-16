@@ -36,3 +36,9 @@
 ### Updates
 
 - Removed Special Theme By Yago - Reason: A lot of bugs
+
+## [1.0.0]
+
+### Updates
+
+- Added Sapphire Theme ⭐
